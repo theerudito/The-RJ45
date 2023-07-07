@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{aba400d6-6d6c-48bc-8609-d7b49467429e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{02db3be9-47ef-1b4d-a3d4-c785fb8f91eb}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{aba400d6-6d6c-48bc-8609-d7b49467429e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aba400d6-6d6c-48bc-8609-d7b49467429e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02db3be9-47ef-1b4d-a3d4-c785fb8f91eb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02db3be9-47ef-1b4d-a3d4-c785fb8f91eb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6cd7b0aa9cbd2546a647c4c882c0125
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _mainTheme: {fileID: 8300000, guid: d98a31ea32704bf468bd3f6628a68dd3, type: 3}
+  - _clickSound: {instanceID: 0}
+  - _objectConfig: {instanceID: 0}
+  - _objectPanelConfig: {instanceID: 0}
+  - _objectPanelPlay: {instanceID: 0}
+  - _objectPause: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
