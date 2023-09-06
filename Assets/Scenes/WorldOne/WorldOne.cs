@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class WorldOne : MonoBehaviour
 {
@@ -82,6 +83,11 @@ public class WorldOne : MonoBehaviour
 
     public void PrewScene()
     {
-         ManagerScene.Instance.BackSceneManager();
+        ManagerScene.Instance.BackSceneManager();
+    }
+
+    public void OpenGitHub()
+    {
+        OpenUrl.MyUrl("https://github.com/theerudito");
     }
 }
